@@ -4,7 +4,9 @@
 
 #### 본 논문에서 MR은 CT보다 higher observed variance가 존재하여 CT보다 더 많이 실험을 진행했다.
 
-All segmentation experiments on CT were repeated 8 times, while those on MR were repeated 14 times to compensate for a higher observed variance
+All segmentation experiments on CT were repeated 8 times, while those on MR were repeated 14 times to compensate for a higher observed variance.
+
+<img src="https://github.com/Hyeseong0317/DataAugmentation/blob/main/images/dataaugmentation.PNG" width="40%">
 
 [Progressive growing of GANs for improved quality, stability, and variation](https://arxiv.org/pdf/1710.10196.pdf)
 
