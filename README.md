@@ -21,6 +21,9 @@ One major advantage that traditional augmentation has over GAN augmentation is t
 
 PGGAN was chosen on the basis of its training stability at large image sizes and apparent robustness to hyperparameter selection.
 
+#### small Wasserstein distance는 training images와 generator samples의 distribution이 비슷하다는 의미이며, spatial resolution에서 비슷한 출현과 분산을 가진다는 의미이다.
+Intuitively a small Wasserstein distance indicates that the distribution of the patches is similar, meaning that the training images and generator samples appear similar in both appearance and variation at this spatial resolution.
+
 [Are GANs created equal?](https://arxiv.org/pdf/1711.10337.pdf)
 
 Whether the choice of GAN architecture will affect the quality of the augmentation is unclear, however there is evidence [14] to suggest that different GAN architectures produce results which are, on average, not significantly different from each other.
