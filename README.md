@@ -26,6 +26,8 @@ Intuitively a small Wasserstein distance indicates that the distribution of the 
 
 [Are GANs created equal?](https://arxiv.org/pdf/1711.10337.pdf)
 
+Inception Score (IS) [24] is based on the fact that a good model should generate samples for which, when evaluated by the classifier, the class distribution has low entropy. At the same time, it should produce diverse samples covering all classes. In contrast Fréchet Inception Distance is computed by considering the difference in embedding of true and fake data [11].
+
 Whether the choice of GAN architecture will affect the quality of the augmentation is unclear, however there is evidence [14] to suggest that different GAN architectures produce results which are, on average, not significantly different from each other.
 
 [MRI augmentation via elastic registration for brain lesions segmentation](https://link.springer.com/chapter/10.1007/978-3-319-75238-9_32)
