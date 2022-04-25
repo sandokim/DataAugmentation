@@ -6,7 +6,7 @@
 
 All segmentation experiments on CT were repeated 8 times, while those on MR were repeated 14 times to compensate for a higher observed variance.
 
-<img src="https://github.com/Hyeseong0317/DataAugmentation/blob/main/images/dataaugmentation.JPG" width="40%">
+<img src="https://github.com/Hyeseong0317/DataAugmentation/blob/main/images/dataaugmentation.JPG" width="60%">
 
 [Progressive growing of GANs for improved quality, stability, and variation](https://arxiv.org/pdf/1710.10196.pdf)
 
