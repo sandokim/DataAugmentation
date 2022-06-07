@@ -1,3 +1,9 @@
+### Rotation
+
+#### ndimage rotation reshape=False --> same resolution as an input
+
+<img src="https://github.com/sandokim/DataAugmentation/blob/main/images/ndimage_reshape.PNG" width="60%">
+
 ### Data Augmentation 논문
 
 [GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks](https://arxiv.org/pdf/1810.10863.pdf)
