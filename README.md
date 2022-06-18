@@ -1,3 +1,9 @@
+# DataAugmentation Methods
+
+### Random erasing & mixup & cutmix
+
+<img src="https://github.com/sandokim/DataAugmentation/blob/main/images/random erasing mixup cutmix.jpg" width="60%">
+
 ### Rotation
 
 #### ndimage rotation reshape=False --> same resolution as an input
