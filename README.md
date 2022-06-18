@@ -2,6 +2,12 @@
 
 ### Random erasing & mixup & cutmix
 
+Random eraising -> Random하게 지우고 채우기
+
+Mixup -> 2개 이미지 섞기
+
+Cutmix -> 서로 다른 범주의 이미지 패치를 섞어 image를 augment -> image label을 해당 augmented image의 pixel 비율로 지정
+
 <img src="https://github.com/sandokim/DataAugmentation/blob/main/images/random erasing mixup cutmix.jpg" width="60%">
 
 ### Rotation
